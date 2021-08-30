@@ -1,4 +1,4 @@
-"""Hype Machinery EX01"""
+"""Hype Machinery EX01."""
 
 __author__ = "730313907"
 
